@@ -1,6 +1,6 @@
 # 🎯 REGEX ?
 
-<img src="reg1">
+<img src="https://github.com/rasitesdmr/SpringBoot-Regex/blob/master/images/reg1.jpg">
 
 * Regex (Regular Expressions), metinlerde belirli bir deseni tanımlamak için kullanılan bir yöntemdir.
 * Yani, belirli bir karakter veya karakter dizisi kalıbı arayan bir arama işlemi için kullanılır.
@@ -233,6 +233,6 @@ docker-compose down -v
 
 ## 📌 Docker Containers
 
-<img src="">
+<img src="https://github.com/rasitesdmr/SpringBoot-Regex/blob/master/images/reg2.png">
 
 ▶️ swagger path : http://localhost:8080/swagger-ui.html
