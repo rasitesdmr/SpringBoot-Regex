@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+
+  springboot-regex:
+    image: rasitesdmr1486/springboot-regex:v1.0
+    container_name: springboot-regex
+    restart: always
+    ports:
+      - "8080:8080"
+    networks:
+      - my-network
+
+networks:
+  my-network:
+    driver: bridge
